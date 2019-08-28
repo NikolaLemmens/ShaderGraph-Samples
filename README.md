@@ -1,5 +1,5 @@
 # ShaderGraph-Samples
-Intro to ShaderGraph. 
+Intro to ShaderGraph. LWRP.
 
 Jayanam: https://www.youtube.com/watch?v=UxmIC92BqfA&t=16s
 
